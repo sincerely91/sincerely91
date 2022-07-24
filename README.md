@@ -6,6 +6,7 @@
 </article>
 
 <p align="center">
+
 - 👋 Hi, I’m @blockchaindev91@
 
 - 😎 Interested in contributing expertise in web and blockchain development
@@ -108,6 +109,10 @@
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+
+--- 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockchaindev91&theme=white" /> 
+<img align="right" alt="blockchaindev91's Github Stats" src="https://github-readme-stats.vercel.app/api?username=blockchaindev91&show_icons=true&hide_border=true" /><br />
 
 <!--
 **blockchaindev91/blockchaindev91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
