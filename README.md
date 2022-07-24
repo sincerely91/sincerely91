@@ -44,19 +44,17 @@
 
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
-[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
 [![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Graphql](https://img.shields.io/badge/-Graph_QL-ff1493?style=for-the-badge&logo=graphql&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
 
 [![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=Rust&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
-[![Go](https://github.com/blockchaindev91/blockchaindev91/blob/main/icon/go.png)](https://github.com/blockchaindev91/)
+[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
+[![Go](https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/go.png)](https://github.com/blockchaindev91/)
 [![Blockchain](https://img.shields.io/badge/-Blockchain-121D13?style=flat&logo=Blockchain.com&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=Bitcoin&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=Ethereum&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
@@ -65,17 +63,19 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/) 
+[![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/) 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 
+[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![C/C++/C#](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
@@ -87,7 +87,7 @@
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/blockchaindev91/)
 
 [![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat&logo=digitalocean&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
-[![Amazon Web Service](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat&logo=microsoft-azure&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 
