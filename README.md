@@ -53,7 +53,7 @@
 
 [![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=Rust&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
-[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
+[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=flat&logo=javascript&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Go](https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/go.png)](https://github.com/blockchaindev91/)
 [![Blockchain](https://img.shields.io/badge/-Blockchain-121D13?style=flat&logo=Blockchain.com&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=Bitcoin&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
@@ -66,12 +66,12 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/) 
-[![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
+[![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/) 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 
-[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
+[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=flat&logo=mysql&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
