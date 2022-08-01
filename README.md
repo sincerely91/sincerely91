@@ -5,7 +5,7 @@
 
 <p align="center">
 
-- 👋 Hi, I’m @blockchaindev91@
+- 👋 Hi, I’m @blockchaindev91
 
 - 😎 Interested in contributing expertise in web and blockchain development
 
