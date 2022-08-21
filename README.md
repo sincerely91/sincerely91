@@ -152,14 +152,6 @@
   </a>
 </div>
 
-
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
-
-
 <p align="center">
   <a href="https://github.com/blockchaindev91?tab=repositories">
     <img
@@ -177,7 +169,7 @@
   <a href="https://github.com/blockchaindev91">
     <img 
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blockchaindev91&layout=compact&langs_count=8&theme=gotham"
-      width="48%" alt="blockchaindev91's github-readme-top-langs" />  
+      width="53%" alt="blockchaindev91's github-readme-top-langs" />  
   </a>
   <!-- <a href="https://wakatime.com/blockchaindev91">
     <img
@@ -187,13 +179,13 @@
   <a href="https://github.com/blockchaindev91?tab=achievements">
     <img
       src="https://github-profile-trophy.vercel.app/?username=blockchaindev91&theme=onestar&no-frame=true&column=3&row=2"
-      width="48%" alt="blockchaindev91's trophy stats" />
+      width="43%" alt="blockchaindev91's trophy stats" />
   </a>
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-  <a href="https://wakatime.com/blockchaindev91">
+  <a href="https://github.com/blockchaindev91">
     <img
       src="https://activity-graph.herokuapp.com/graph?username=blockchaindev91&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
       width="95%" alt="activity graph">
