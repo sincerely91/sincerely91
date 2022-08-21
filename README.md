@@ -2,39 +2,41 @@
 <p align="right">
   <a href="https://github.com/blockchaindev91?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
-      src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/blockchaindev91" /></a>
+      src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/blockchaindev91" />
+  </a>
   <a href="https://github.com/blockchaindev91?tab=followers">
     <img alt="followers" title="Follow me on Github"
-      src="https://custom-icon-badges.herokuapp.com/github/followers/blockchaindev91?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
+      src="https://custom-icon-badges.herokuapp.com/github/followers/blockchaindev91?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+  </a>
   <a href="https://github.com/blockchaindev91">
     <img alt="views" title="GitHub profile views"
-      src="https://shields-io-visitor-counter.herokuapp.com/badge?page=blockchaindev91&style=for-the-badge" /></a>
+      src="https://shields-io-visitor-counter.herokuapp.com/badge?page=blockchaindev91&style=for-the-badge" />
+  </a>
 </p>
 
 # Full Stack Web & Blockchain Enginner
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   <p dir="auto">
-    <g-emoji class="g-emoji" alias="sparkles"
-      fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full Stack Web and
-    Blockchain developer specialized in MERN Stack and Solidity <g-emoji class="g-emoji" alias="sparkles"
-      fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+    <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> 
+    Full Stack Web and Blockchain developer specialized in MERN Stack and Solidity 
+    <g-emoji class="g-emoji" alias="sparkles"fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
   </p>
 </article>
 
 <p align="center">
 
-  - 👋 Hi, I’m @blockchaindev91
+- 👋 Hi, I’m @blockchaindev91
 
-  - 😎 Interested in contributing expertise in web and blockchain development
+- 😎 Interested in contributing expertise in web and blockchain development
 
-  - 📚 Love reading books on personal development & financial literacy.
+- 📚 Love reading books on personal development & financial literacy.
 
-  - 🌱 I’m currently spare time to learn CosmWasm.
+- 🌱 I’m currently spare time to learn CosmWasm.
 
-  - 🤝 Looking forward to more partnership with talents
+- 🤝 Looking forward to more partnership with talents
 
-  - 🥅 2022 Goals: Contribute more to building web3 infra over the internet.
+- 🥅 2022 Goals: Contribute more to building web3 infra over the internet.
 
 </p>
 
@@ -42,20 +44,13 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_solidity.png?raw=true"
-        width="200"></td>
-    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_nft.png?raw=true" width="200">
-    </td>
-    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_defi.png?raw=true"
-        width="200"></td>
-    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_truffle.png?raw=true"
-        width="200"></td>
-    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_pancake.png?raw=true"
-        width="200"></td>
-    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_metamask.png?raw=true"
-        width="200"></td>
-    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_bitcoin.png?raw=true"
-        width="200"></td>
+    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_solidity.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_nft.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_defi.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_truffle.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_pancake.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_metamask.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/blockchaindev91/blockchaindev91/blob/main/icons/icon_bitcoin.png?raw=true" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
@@ -77,8 +72,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
-[![Tailwind
-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=bootstrap&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=bootstrap&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 
@@ -110,10 +104,8 @@ CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=bootstrap&
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/blockchaindev91/)
 
 [![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat&logo=digitalocean&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
-[![Amazon
-AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
-[![Microsoft
-Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat&logo=microsoft-azure&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat&logo=microsoft-azure&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
@@ -125,28 +117,19 @@ Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat&logo=mic
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/blockchaindev91/)
 [![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)](https://github.com/blockchaindev91/)
 
-[![Sublime
-Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/blockchaindev91/)
-[![Visual Studio
-Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/blockchaindev91/)
-[![Web
-Storm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/blockchaindev91/)
-[![Web
-Storm](http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/blockchaindev91/)
-[![Visual
-Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/blockchaindev91/)
+[![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/blockchaindev91/)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/blockchaindev91/)
+[![Web Storm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/blockchaindev91/)
+[![Web Storm](http://img.shields.io/badge/-PHPStorm-181717?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/blockchaindev91/)
+[![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/blockchaindev91/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/blockchaindev91/)
 
-### <h2 dir="auto"><a id="user-content--profile-trophy" class="anchor" aria-hidden="true"
-    href="https://github.com/blockchaindev91"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1"
-      width="16" height="16" aria-hidden="true">
-      <path fill-rule="evenodd"
-        d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
-      </path>
-    </svg></a>🏆</g-emoji> My Trophies</h2>
+### <h2 dir="auto"><a id="user-content--profile-trophy" class="anchor" aria-hidden="true" href="https://github.com/blockchaindev91"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>🏆</g-emoji> My Trophies</h2>
 
-<a href="http://github.com/blockchaindev91"><img
-    src="https://camo.githubusercontent.com/d56647ee7f49ddaba75c1b71b74338bb36a7a1652bc73fb96e6cbd07206a93c1/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d336d7038723326726f773d3126636f6c756d6e3d37266e6f2d62673d74727565266d617267696e2d773d3432267468656d653d6a756963796672657368" /></a>
+<a href="http://github.com/blockchaindev91">
+  <img 
+  src="https://camo.githubusercontent.com/d56647ee7f49ddaba75c1b71b74338bb36a7a1652bc73fb96e6cbd07206a93c1/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d336d7038723326726f773d3126636f6c756d6e3d37266e6f2d62673d74727565266d617267696e2d773d3432267468656d653d6a756963796672657368" />
+</a>
 
 ### **_Contact Details_**
 
@@ -175,20 +158,21 @@ Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.p
   src="https://github-readme-stats.vercel.app/api?username=blockchaindev91&show_icons=true&hide_border=true" /><br />
 
 <p align="center">
-  <a href="https://github.com/blockchaindev91?tab=repositories"><img
+  <a href="https://github.com/blockchaindev91?tab=repositories">
+    <img
       src="https://github-readme-stats.vercel.app/api?username=blockchaindev91&theme=gotham&show_icons=true&count_private=true&hide_border=true"
-      width="48%" alt="@Voko's github-readme-stats" /></a>
-  <a href="https://github.com/blockchaindev91?tab=stars"><img
+      width="48%" alt="blockchaindev91's github-readme-stats" />
+  </a>
+  <a href="https://github.com/blockchaindev91?tab=stars">
+    <img
       src="https://github-readme-streak-stats.herokuapp.com?user=blockchaindev91&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-      width="48%" alt="@Voko's github-readme-streak-stats" /></a>
+      width="48%" alt="blockchaindev91's github-readme-streak-stats" />
+  </a>
 </p>
-
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png" width="100%"
-    alt="kotlin_online_compiler" /></a>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-  <a href="https://wakatime.com/@Voko">
+  <a href="https://wakatime.com/blockchaindev91">
     <img
       src="https://activity-graph.herokuapp.com/graph?username=blockchaindev91&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
       width="95%" alt="activity graph">
@@ -197,22 +181,29 @@ Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.p
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-  <a href="https://wakatime.com/@Voko"><img
+  <a href="https://wakatime.com/blockchaindev91">
+    <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"
-      width="58%" alt="@Voko's wakatime stats" /></a>
-  <a href="https://github.com/blockchaindev91?tab=achievements"><img
+      width="58%" alt="blockchaindev91's wakatime stats" />
+  </a>
+  <a href="https://github.com/blockchaindev91?tab=achievements">
+    <img
       src="https://github-profile-trophy.vercel.app/?username=blockchaindev91&theme=onestar&no-frame=true&column=3&row=2"
-      width="38%" alt="@Voko's trophy stats" /></a>
+      width="38%" alt="blockchaindev91's trophy stats" />
+  </a>
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Ablockchaindev91+archived%3Afalse+is%3Aclosed"><img
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ablockchaindev91+archived%3Afalse+is%3Aclosed">
+    <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blockchaindev91&theme=github_dark&utcOffset=4"
-      width="31%" alt="@Voko's productive-time" /></a>
-  <a href="https://github.com/issues?q=is%3Aissue+author%3Ablockchaindev91+archived%3Afalse+is%3Aclosed"><img
+      width="31%" alt="blockchaindev91's productive-time" />
+  </a>
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Ablockchaindev91+archived%3Afalse+is%3Aclosed">
+    <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blockchaindev91&theme=github_dark&hide_border=true"
-      width="64%" alt="@Voko's profile-details" /></a>
+      width="64%" alt="blockchaindev91's profile-details" />
+  </a>
 </p>
 
 <!--
