@@ -166,15 +166,32 @@
       src="https://github-readme-stats.vercel.app/api?username=blockchaindev91&theme=gotham&show_icons=true&count_private=true&hide_border=true"
       width="48%" alt="blockchaindev91's github-readme-stats" />
   </a>
+  <a href="https://github.com/blockchaindev91?tab=stars">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=blockchaindev91&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      width="48%" alt="blockchaindev91's github-readme-streak-stats" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/blockchaindev91">
     <img 
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blockchaindev91&layout=compact&langs_count=8&theme=gotham"
       width="48%" alt="blockchaindev91's github-readme-top-langs" />  
   </a>
-  <a href="https://github.com/blockchaindev91?tab=stars">
+  <a href="https://wakatime.com/blockchaindev91">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=blockchaindev91&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-      width="48%" alt="blockchaindev91's github-readme-streak-stats" />
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"
+      width="48%" alt="blockchaindev91's wakatime stats" />
+  </a>
+ 
+</p>
+
+<p align="center">
+   <a href="https://github.com/blockchaindev91?tab=achievements">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=blockchaindev91&theme=onestar&no-frame=true&column=3&row=2"
+      width="95%" alt="blockchaindev91's trophy stats" />
   </a>
 </p>
 
@@ -187,15 +204,6 @@
   </a>
 </p>
 <!-- activity graph heroku-app end -->
-
-<p align="center">
-  <a href="https://wakatime.com/blockchaindev91">
-    <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"
-      width="58%" alt="blockchaindev91's wakatime stats" />
-  </a>
-  
-</p>
 
 <p align="center">
   <a href="https://github.com/pulls?q=is%3Apr+author%3Ablockchaindev91+archived%3Afalse+is%3Aclosed">
