@@ -179,25 +179,17 @@
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blockchaindev91&layout=compact&langs_count=8&theme=gotham"
       width="48%" alt="blockchaindev91's github-readme-top-langs" />  
   </a>
-  <a href="https://wakatime.com/blockchaindev91">
+  <!-- <a href="https://wakatime.com/blockchaindev91">
     <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=blockchaindev91&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"
       width="48%" alt="blockchaindev91's wakatime stats" />
-  </a>
+  </a> -->
   <a href="https://github.com/blockchaindev91?tab=achievements">
     <img
       src="https://github-profile-trophy.vercel.app/?username=blockchaindev91&theme=onestar&no-frame=true&column=3&row=2"
       width="48%" alt="blockchaindev91's trophy stats" />
   </a>
 </p>
-
-<!-- <p align="center">
-  <a href="https://github.com/blockchaindev91?tab=achievements">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=blockchaindev91&theme=onestar&no-frame=true&column=3&row=2"
-      width="95%" alt="blockchaindev91's trophy stats" />
-  </a>
-</p> -->
 
 <!-- activity graph heroku-app start -->
 <p align="center">
