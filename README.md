@@ -167,7 +167,9 @@
       width="48%" alt="blockchaindev91's github-readme-stats" />
   </a>
   <a href="https://github.com/blockchaindev91">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blockchaindev91&layout=compact&langs_count=8&theme=gotham"/>  
+    <img 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blockchaindev91&layout=compact&langs_count=8&theme=gotham"
+      width="48%" alt="blockchaindev91's github-readme-top-langs" />  
   </a>
   <a href="https://github.com/blockchaindev91?tab=stars">
     <img
@@ -192,11 +194,7 @@
       src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"
       width="58%" alt="blockchaindev91's wakatime stats" />
   </a>
-  <a href="https://github.com/blockchaindev91?tab=achievements">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=blockchaindev91&theme=onestar&no-frame=true&column=3&row=2"
-      width="38%" alt="blockchaindev91's trophy stats" />
-  </a>
+  
 </p>
 
 <p align="center">
