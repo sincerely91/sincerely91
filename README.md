@@ -152,13 +152,13 @@
   </a>
 </div>
 
-<!--
+
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
--->
+
 
 <p align="center">
   <a href="https://github.com/blockchaindev91?tab=repositories">
@@ -181,19 +181,23 @@
   </a>
   <a href="https://wakatime.com/blockchaindev91">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=blockchaindev91&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"
       width="48%" alt="blockchaindev91's wakatime stats" />
   </a>
- 
+  <a href="https://github.com/blockchaindev91?tab=achievements">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=blockchaindev91&theme=onestar&no-frame=true&column=3&row=2"
+      width="48%" alt="blockchaindev91's trophy stats" />
+  </a>
 </p>
 
-<p align="center">
-   <a href="https://github.com/blockchaindev91?tab=achievements">
+<!-- <p align="center">
+  <a href="https://github.com/blockchaindev91?tab=achievements">
     <img
       src="https://github-profile-trophy.vercel.app/?username=blockchaindev91&theme=onestar&no-frame=true&column=3&row=2"
       width="95%" alt="blockchaindev91's trophy stats" />
   </a>
-</p>
+</p> -->
 
 <!-- activity graph heroku-app start -->
 <p align="center">
@@ -205,7 +209,7 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/pulls?q=is%3Apr+author%3Ablockchaindev91+archived%3Afalse+is%3Aclosed">
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blockchaindev91&theme=github_dark&utcOffset=4"
@@ -216,7 +220,7 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blockchaindev91&theme=github_dark&hide_border=true"
       width="64%" alt="blockchaindev91's profile-details" />
   </a>
-</p>
+</p> -->
 
 <!--
 **blockchaindev91/blockchaindev91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
