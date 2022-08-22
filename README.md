@@ -1,4 +1,7 @@
-<hr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
+
 <p align="right">
   <a href="https://github.com/blockchaindev91?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
@@ -15,6 +18,8 @@
 </p>
 
 # Full Stack Web & Blockchain Enginner
+
+## 👨‍💻 &nbsp;About Me
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   <p dir="auto">
@@ -40,7 +45,7 @@
 
 </p>
 
-## Skills 🌐
+## 🌐&nbsp;Skills
 
 <table>
   <tr>
@@ -58,7 +63,7 @@
   </tr>
 </table>
 
-## Technical Stack 👨‍💻
+## 🛠 &nbsp;Technical Stack 
 
 [![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
 [![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=Rust&link=https://github.com/blockchaindev91/)](https://github.com/blockchaindev91/)
@@ -124,7 +129,7 @@
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/blockchaindev91/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/blockchaindev91/)
 
-### **_Contact Details_**
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/hisamitsu-teru-110744233">
@@ -144,7 +149,11 @@
   </a>&nbsp;&nbsp;
 </p>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
