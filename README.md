@@ -153,7 +153,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics &nbsp;🛠
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -187,7 +187,7 @@
   </a> -->
   <a href="https://github.com/blockchaindev91?tab=achievements">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=blockchaindev91&theme=onestar&no-frame=true&column=3&row=2"
+      src="https://github-profile-trophy.vercel.app/?username=blockchaindev91&theme=nord&no-frame=true&column=3"
       width="43%" alt="blockchaindev91's trophy stats" />
   </a>
 </p>
