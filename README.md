@@ -133,19 +133,19 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/hisamitsu-teru-110744233">
-    <img src="https://img.shields.io/badge/linkedin-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/teru12345">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/D152S5b7pXtN">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+    <img src="https://img.shields.io/badge/Skype-0077B5?style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:hisamitsuteru@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email Me-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://discordapp.com/users/947880293665234966">
-    <img src="https://img.shields.io/badge/discord-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
