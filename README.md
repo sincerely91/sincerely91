@@ -138,7 +138,7 @@
   <a href="https://t.me/sincerely91">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/D152S5b7pXtN">
+  <a href="https://join.skype.com/invite/bvtwCRnpk2go">
     <img src="https://img.shields.io/badge/Skype-0077B5?style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:work.sincerely91@gmail.com">
